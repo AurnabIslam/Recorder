@@ -46,7 +46,7 @@ $replayRecording.addEventListener('click', (event) => {
 	{
 	// Set the x and y for each mouse move recorded (123, 456 are examples)
 	 $cursor.style.setProperty('--x', 123)
-	 $cursor.style.setProperty('--y', 345)
+	 $cursor.style.setProperty('--y', 456)
 
 })
 })
